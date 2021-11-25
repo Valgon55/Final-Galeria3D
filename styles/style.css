@@ -1,0 +1,84 @@
+* {
+    /* Qué es el BOX MODEL? */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: black;
+    overflow: hidden;
+  }
+
+  #Video1{
+    height: 20%;
+  width: 20%;
+    position: fixed;
+    top: 25%;
+    right: 0%;
+    opacity: 100%;
+    z-index: -1;
+ 
+}
+
+#Video2{
+  height: 20%;
+  width: 20%;
+  position: fixed;
+  top: 25%;
+  right: 0%;
+  opacity: 100%;
+  z-index: -1;
+
+}
+
+#Video3{
+  height: 20%;
+  width: 20%;
+  position: fixed;
+  top: 25%;
+  right: 0%;
+  opacity: 100%;
+  z-index: -1;
+
+}
+
+#Video4{
+
+  height: 20%;
+  width: 20%;
+  position: fixed;
+  top: 25%;
+  right: 0%;
+  opacity: 100%;
+  z-index: -1;
+
+}
+
+#blocker {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#instructions {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#portada {
+  
+  width: 100%;
+  height: 100%;
+
+}

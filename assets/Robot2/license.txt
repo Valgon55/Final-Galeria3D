@@ -1,0 +1,11 @@
+Model Information:
+* title:	Butter Robot from Rick and Morty
+* source:	https://sketchfab.com/3d-models/butter-robot-from-rick-and-morty-17951fc2689e4929a067da4c58923018
+* author:	Be-Ru (https://sketchfab.com/beru837)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Butter Robot from Rick and Morty" (https://sketchfab.com/3d-models/butter-robot-from-rick-and-morty-17951fc2689e4929a067da4c58923018) by Be-Ru (https://sketchfab.com/beru837) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
